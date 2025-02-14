@@ -402,7 +402,7 @@ export default function LandingPage() {
                 <div className="w-full max-w-md">
                   <TestimonialCard
                     quote="dataSafe nous a sauvé d'une perte de données catastrophique. Leur service est inestimable."
-                    author="Camille Z."
+                    author="Pierre-Emmanuel W."
                     company="NOVA Energy"
                   />
                 </div>
@@ -416,8 +416,8 @@ export default function LandingPage() {
                 <div className="w-full max-w-md">
                   <TestimonialCard
                     quote="Un service client exceptionnel et des fonctionnalités qui répondent parfaitement à nos besoins."
-                    author="Pierre-Etienne M."
-                    company="Cabinet d'Architecture Moderne"
+                    author="Camille Z."
+                    company="Architecture Moderne"
                   />
                 </div>
               </div>

@@ -79,6 +79,9 @@
   .title-text {
     line-height: 1.2 !important;
   }
+  .text-2xl {
+    line-height: 2rem !important;
+  }
 }
 
 .animate-scroll {
