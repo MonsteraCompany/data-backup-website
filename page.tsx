@@ -288,17 +288,17 @@ export default function LandingPage() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <TestimonialCard
                 quote="SecureSauvegarde nous a sauvé d'une perte de données catastrophique. Leur service est inestimable."
-                author="Marie Dupont"
-                company="Agence de Communication Créative"
+                author="Camille Z."
+                company="NOVA Energy"
               />
               <TestimonialCard
                 quote="La tranquillité d'esprit que nous offre leur solution de sauvegarde est incomparable."
-                author="Jean Martin"
-                company="Studio VFX Innovant"
+                author="François H."
+                company="Camelia Beauty France"
               />
               <TestimonialCard
                 quote="Un service client exceptionnel et des fonctionnalités qui répondent parfaitement à nos besoins."
-                author="Sophie Lefebvre"
+                author="Pierre-Etienne M."
                 company="Cabinet d'Architecture Moderne"
               />
             </div>
